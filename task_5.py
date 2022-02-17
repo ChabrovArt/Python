@@ -7,4 +7,4 @@ for n in my_list:
     else:
         break
 my_list.insert(i, person_number)
-print(my_list)
+print(my_list)  
