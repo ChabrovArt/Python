@@ -6,3 +6,4 @@ def fact_gen(number):
 
 for el in fact_gen(int(input('Factorial number: '))):
     print(el)
+# оч сложно
